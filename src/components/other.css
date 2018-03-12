@@ -1,0 +1,25 @@
+.otherWrapper{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    /*background-color: orange;*/
+    height: 300px;
+    margin-top: 100px;
+    padding: 20px;
+    height: auto;
+}
+
+.otherWrapper h1 {
+    text-align: center;
+    font-family: Quicksand;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.otherWrapper p{
+    font-family: Quicksand;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    
+}

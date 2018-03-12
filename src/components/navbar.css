@@ -1,0 +1,19 @@
+.navbar{
+   background:transparent;
+    border: none;
+    font-family: "Quicksand";
+    font-weight: bold;
+    font-size: 1.3em;
+    position: static;
+   
+    
+    
+}
+
+.navbar-brand{
+    font-size: 2em;
+}
+
+li a{
+    color: white;
+}
